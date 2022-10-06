@@ -1,5 +1,5 @@
 # Export Multiple Pandas DataFrames to a single Excel sheet
-Have you ever wanted to export multiple pandas dataframes to one Excel sheet? In this video, I'll show you how to export multiple pandas dataframes to one Excel sheet.
+Have you ever wanted to export multiple pandas DataFrames to one Excel sheet? In this video, I'll show you how to export multiple pandas DataFrames to one Excel sheet.
 
 ## Video Tutorial
 ..will follow soon!
